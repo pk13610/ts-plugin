@@ -1,0 +1,12 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            { 
+                "caption": "douban", 
+                "command": "note4st"
+            }
+        ]
+    }
+]

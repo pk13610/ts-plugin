@@ -1,0 +1,20 @@
+{
+    "user": "user1",
+    "save_path": "",
+    "user_list": 
+        [
+            {
+                "user": "user1",
+                "email":  "user1@gmail.com",
+                "password" : "user1",
+                "json_path": "user1.json"
+            },
+            {
+                "user": "user2",
+                "email":  "user2@gmail.com",
+                "password" : "user2",
+                "json_path": "user2.json"
+            }
+        ]
+}
+

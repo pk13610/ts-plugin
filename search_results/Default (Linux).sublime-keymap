@@ -1,0 +1,6 @@
+[
+ {
+ "keys": ["ctrl+'"],
+ "command": "search_results"
+ }
+]

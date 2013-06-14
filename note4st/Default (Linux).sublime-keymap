@@ -1,0 +1,22 @@
+[
+
+ {
+ "keys": ["ctrl+\\"],
+ "command": "note4st"
+ },
+
+ {
+ "keys": ["ctrl+["],
+ "command": "note4st_get_notes"
+ },
+
+ {
+ "keys": ["ctrl+]"],
+ "command": "note4st_send_note"
+ },
+
+ {
+ "keys": ["ctrl+-"],
+ "command": "note4st_del_note"
+ }
+]

@@ -59,8 +59,6 @@ class Note4stDouban:
 
 if __name__ == "__main__":
     client = Note4stDouban("../../anonymous.json")
-    client.login('hopper2004@163.com', 'd123123123')
-    client.client.note.new('title', 'content', privacy='private')
-#    client.login(None, None, client.user.token)
-#    res = client.client.note.list(client.user.uid)
-#    print res
+    client.login(None, None, client.user.token)
+    res = client.client.note.list(client.user.uid)
+    print res
